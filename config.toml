@@ -1,4 +1,4 @@
-baseURL       = "http://qualitechlabs.com/"
+baseURL       = "https://qualitechlabs.com/"
 languageCode  = "en-us"
 title         = "Qualitech | Labs"
 theme         = "qualitechlabs"
