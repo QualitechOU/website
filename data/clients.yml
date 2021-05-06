@@ -1,0 +1,4 @@
+enable        : false
+title         : "Who trust our judgment"
+client_logos  : 
+  ["images/clients/brankas.jpg", "images/clients/travelperk.png", ]

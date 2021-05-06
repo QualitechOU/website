@@ -1,0 +1,3 @@
+[submodule "themes/qualitechlabs"]
+	path = themes/qualitechlabs
+	url = https://github.com/QualitechOU/roxo-hugo.git
