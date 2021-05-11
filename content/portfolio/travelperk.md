@@ -1,10 +1,10 @@
 ---
-title: "KIO-TAPE BRAND"
-date: 2019-12-23T20:56:42+06:00
+title: "Travelperk"
+date: 2019-12-24T15:58:10+06:00
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
-category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+image: "images/projects/travelperk.png"
+category: ["Go", "Kubernetes", "DevOps", "Startup"]
+project_images: ["images/projects/games-fewsats.png","images/projects/games-fewsats-details.png"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
@@ -26,4 +26,3 @@ Mystery answer. After entering this mode, the screen initially displays “ask n
 Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
 
 The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
-
