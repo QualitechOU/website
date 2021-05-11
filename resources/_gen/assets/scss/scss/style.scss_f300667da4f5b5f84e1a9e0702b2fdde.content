@@ -302,7 +302,6 @@ textarea.form-control {
     .site-project-item-thumb img, .site-blog-post-thumb img {
       width: 100%; }
     .site-project-item-content, .site-blog-post-content {
-      position: absolute;
       background: #F7F9FF;
       width: 100%;
       padding: 45px 50px;
