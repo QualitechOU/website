@@ -2,7 +2,7 @@
 title: "Games@fewsats"
 date: 2019-12-23T15:58:10+06:00
 type: portfolio
-image: "images/projects/games-fewsats.png"
+# image: "images/projects/games-fewsats.png"
 category: ["Bitcoin", "Lightning network", "Go", "ecommerce"]
 project_images: ["images/projects/games-fewsats.png","images/projects/games-fewsats-details.png"]
 ---

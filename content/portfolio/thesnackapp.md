@@ -2,9 +2,9 @@
 title: "The Snack app"
 date: 2020-01-10T15:58:10+06:00
 type: portfolio
-image: "images/projects/the-snack-app.png"
+# image: "images/projects/the-snack-app.png"
 category: ["Mobile", "Go", "Firebase", "Startup"]
-project_images: ["images/projects/games-fewsats.png","images/projects/games-fewsats-details.png"]
+project_images: ["images/projects/the-snack-app.png"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.

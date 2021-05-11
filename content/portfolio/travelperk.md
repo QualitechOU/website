@@ -2,9 +2,9 @@
 title: "Travelperk"
 date: 2019-12-24T15:58:10+06:00
 type: portfolio
-image: "images/projects/travelperk.png"
+# image: "images/projects/travelperk.png"
 category: ["Go", "Kubernetes", "DevOps", "Startup"]
-project_images: ["images/projects/games-fewsats.png","images/projects/games-fewsats-details.png"]
+project_images: ["images/projects/travelperk.png"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
